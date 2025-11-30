@@ -1,7 +1,7 @@
 # Mini-MLflow
-A Minikube-based MLflow stack
+A Minikube-based MLflow stack.
 
-### set up
+### Set-up
 
 Access the repo:
 
