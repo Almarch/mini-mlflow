@@ -1,13 +1,13 @@
-# mlflow-stack
-A minimal stack to play with MLflow locally
+# Mini-MLflow
+A Minikube-based MLflow stack
 
 ### set up
 
 Access the repo:
 
 ```sh
-git clone https://github.com/almarch/mlflow-stack.git
-cd mlflow-stack
+git clone https://github.com/almarch/mini-mlflow.git
+cd mini-mlflow
 ```
 
 The following toolbox is needed:
